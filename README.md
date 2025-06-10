@@ -79,10 +79,4 @@ Loves Chess ♟️ | Football ⚽ | Conspiracy Theories 🕵️‍♂️
 
 <div align="center">
 
-📈 GitHub Analytics
-<img src="https://github-readme-stats.vercel.app/api?username=yashaswi29&theme=react&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&icon_color=00d9ff&title_color=00d9ff&text_color=ffffff&bg_color=0d1117" alt="GitHub Stats" />
-<br/>
-<img src="https://streak-stats.demolab.com/?user=yashaswi29&theme=react&hide_border=true&background=0d1117&stroke=00d9ff&ring=00d9ff&fire=ff6b6b&currStreakLabel=ffffff&currStreakNum=ffffff" alt="GitHub Streak" />
-</div>
-
-<p align="center">Thanks for scrolling — happy surfing! :)</p>
+<p align="center">— happy surfing! :)</p>
